@@ -114,7 +114,11 @@ class Oferta:
                                     hora = a.text
                                     print("Hora:", hora)
                                 if nroCelda2 == 2:
-                                    dias = a.text
+                                    # dias = a.text
+                                    dias = ""
+                                    for c in a.text:
+                                        if c is not "." and c is not ' ':
+                                            dias += c
                                     print("Dias:", dias)
                                 if nroCelda2 == 3:
                                     edificio = a.text
