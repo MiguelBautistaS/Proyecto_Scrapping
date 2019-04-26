@@ -150,6 +150,16 @@ def existe_horarios(materia, id_horario):
     else:
         return True
 
+
+def existe_dia(materia, dia):
+    query = 'SELECT * FROM dias WHERE nrc = %s AND id_dia = %s'
+    cursor.execute(query, (materia['nrc'], days[dia]))
+    rows = cursor.fetchall()
+    if len(rows) == 0:
+        return False
+    else:
+        return True
+
 # -------------------------------------------------------------------------
 def insertar_clave(materia):
     query = 'INSERT INTO clave(clave, materia) VALUES(%s,%s)'
@@ -366,7 +376,8 @@ for file in files:
                 insertar_oferta(materia, id_clave, id_seccion, id_detalle, id_profesor)
 
             for dia in materia['Dias']:
-                insertar_dia(materia, dia)
+                if not existe_dia(materia, dia):
+                    insertar_dia(materia, dia)
 
             if not existe_edificios(materia, id_edificio):
                 insertar_edificios(materia, id_edificio)
