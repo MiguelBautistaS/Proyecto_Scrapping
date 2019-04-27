@@ -14,7 +14,8 @@
         "Aula": "LC11",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO QUEVEDO, CESAR"
+        "Profesor": "CASTILLO QUEVEDO, CESAR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153237",
@@ -31,7 +32,8 @@
         "Aula": "LC11",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO QUEVEDO, CESAR"
+        "Profesor": "CASTILLO QUEVEDO, CESAR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "133679",
@@ -48,7 +50,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "133810",
@@ -65,7 +68,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OBREGON PULIDO, GUILLERMO"
+        "Profesor": "OBREGON PULIDO, GUILLERMO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141263",
@@ -82,7 +86,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO"
+        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "122804",
@@ -99,7 +104,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PACHECO PADILLA, LUIS MANUEL"
+        "Profesor": "PACHECO PADILLA, LUIS MANUEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "125039",
@@ -116,7 +122,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AMEZCUA ESPARZA, FELIPE DE JESUS"
+        "Profesor": "AMEZCUA ESPARZA, FELIPE DE JESUS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143393",
@@ -133,7 +140,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASILLAS DE LA TORRE, SERGIO"
+        "Profesor": "CASILLAS DE LA TORRE, SERGIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153217",
@@ -150,7 +158,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS"
+        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153217",
@@ -167,7 +176,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS"
+        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153217",
@@ -184,7 +194,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS"
+        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153218",
@@ -201,7 +212,8 @@
         "Aula": "LE01",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ GARCIA, JUAN CARLOS"
+        "Profesor": "GUTIERREZ GARCIA, JUAN CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "125036",
@@ -218,7 +230,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS"
+        "Profesor": "BARRAGAN CAMPOS, ROBERTO CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "159551",
@@ -235,7 +248,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ ROMERO, JAIME RICARDO"
+        "Profesor": "GONZALEZ ROMERO, JAIME RICARDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "159551",
@@ -252,7 +266,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ ROMERO, JAIME RICARDO"
+        "Profesor": "GONZALEZ ROMERO, JAIME RICARDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120254",
@@ -269,7 +284,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "133594",
@@ -286,7 +302,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153238",
@@ -303,7 +320,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, HECTOR"
+        "Profesor": "SANTIAGO HERNANDEZ, HECTOR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143397",
@@ -320,7 +338,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FLORES NU\ufffdEZ, JORGE LUIS"
+        "Profesor": "FLORES NU\ufffdEZ, JORGE LUIS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143398",
@@ -337,7 +356,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, HECTOR"
+        "Profesor": "SANTIAGO HERNANDEZ, HECTOR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "160225",
@@ -354,7 +374,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL"
+        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "122647",
@@ -371,7 +392,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALTIERRA CARRANZA, IVAN FERNANDO"
+        "Profesor": "VALTIERRA CARRANZA, IVAN FERNANDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "122647",
@@ -388,7 +410,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALTIERRA CARRANZA, IVAN FERNANDO"
+        "Profesor": "VALTIERRA CARRANZA, IVAN FERNANDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "132015",
@@ -405,7 +428,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ALCALA GUTIERREZ, JAIME"
+        "Profesor": "ALCALA GUTIERREZ, JAIME",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "125194",
@@ -422,7 +446,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ALCALA GUTIERREZ, JAIME"
+        "Profesor": "ALCALA GUTIERREZ, JAIME",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "91267",
@@ -439,7 +464,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ BEAZ, RICARDO"
+        "Profesor": "VAZQUEZ BEAZ, RICARDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "113989",
@@ -456,7 +482,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "144539",
@@ -473,7 +500,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ALVAREZ, MIGUEL"
+        "Profesor": "SANCHEZ ALVAREZ, MIGUEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143396",
@@ -490,7 +518,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO QUEVEDO, CESAR"
+        "Profesor": "CASTILLO QUEVEDO, CESAR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141259",
@@ -507,7 +536,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "NAVARRETE NAVARRETE, LUIS"
+        "Profesor": "NAVARRETE NAVARRETE, LUIS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141260",
@@ -524,7 +554,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SERRANO GARCIA, DAVID IGNACIO"
+        "Profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "154779",
@@ -541,7 +572,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL"
+        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "159846",
@@ -558,7 +590,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SERRANO GARCIA, DAVID IGNACIO"
+        "Profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "92338",
@@ -575,7 +608,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120264",
@@ -592,7 +626,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120264",
@@ -609,7 +644,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "138659",
@@ -626,7 +662,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA"
+        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "111399",
@@ -643,7 +680,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO"
+        "Profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "125307",
@@ -660,7 +698,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEJIA MARIN, MARIA ESTHER"
+        "Profesor": "MEJIA MARIN, MARIA ESTHER",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153236",
@@ -677,7 +716,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BALDERAS MATA, SANDRA ELOISA"
+        "Profesor": "BALDERAS MATA, SANDRA ELOISA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143391",
@@ -694,7 +734,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS"
+        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "146198",
@@ -711,7 +752,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA TORRES, JUAN CARLOS"
+        "Profesor": "IBARRA TORRES, JUAN CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153219",
@@ -728,7 +770,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTOS ARCE, STEWART RENE"
+        "Profesor": "SANTOS ARCE, STEWART RENE",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153219",
@@ -745,7 +788,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTOS ARCE, STEWART RENE"
+        "Profesor": "SANTOS ARCE, STEWART RENE",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "89516",
@@ -762,7 +806,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "113990",
@@ -779,7 +824,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "145989",
@@ -796,7 +842,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120478",
@@ -813,7 +860,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "114818",
@@ -830,7 +878,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DURON GONZALEZ, MONICA JUDITH"
+        "Profesor": "DURON GONZALEZ, MONICA JUDITH",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120479",
@@ -847,7 +896,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN"
+        "Profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "153764",
@@ -864,7 +914,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ HERNANDEZ, HECTOR"
+        "Profesor": "HERNANDEZ HERNANDEZ, HECTOR",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "158797",
@@ -881,7 +932,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "154483",
@@ -898,7 +950,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA"
+        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "160224",
@@ -915,7 +968,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA TORALES, GUILLERMO"
+        "Profesor": "GARCIA TORALES, GUILLERMO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "103853",
@@ -932,7 +986,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "84602",
@@ -949,7 +1004,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "133339",
@@ -966,7 +1022,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CHAVEZ MARTINEZ, EHECATL JOEL"
+        "Profesor": "CHAVEZ MARTINEZ, EHECATL JOEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "125306",
@@ -983,7 +1040,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ MONTELONGO, ROSAURA"
+        "Profesor": "HERNANDEZ MONTELONGO, ROSAURA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "113992",
@@ -1000,7 +1058,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ORTEGA SANCHEZ, NOE"
+        "Profesor": "ORTEGA SANCHEZ, NOE",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143394",
@@ -1017,7 +1076,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS"
+        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "132005",
@@ -1034,7 +1094,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "158798",
@@ -1051,7 +1112,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "132006",
@@ -1068,7 +1130,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "145998",
@@ -1085,7 +1148,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120256",
@@ -1102,7 +1166,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "145996",
@@ -1119,7 +1184,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "133595",
@@ -1136,7 +1202,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "145997",
@@ -1153,7 +1220,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "90532",
@@ -1170,7 +1238,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "120484",
@@ -1187,7 +1256,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS"
+        "Profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "113991",
@@ -1204,7 +1274,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "113991",
@@ -1221,7 +1292,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "123584",
@@ -1238,7 +1310,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA"
+        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141291",
@@ -1255,7 +1328,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ SERRANO, EDUVIGES"
+        "Profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141291",
@@ -1272,7 +1346,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ SERRANO, EDUVIGES"
+        "Profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "114819",
@@ -1289,7 +1364,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA"
+        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "154482",
@@ -1306,7 +1382,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO"
+        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "160226",
@@ -1323,7 +1400,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES ORTEGA, HECTOR HUGO"
+        "Profesor": "TORRES ORTEGA, HECTOR HUGO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "160226",
@@ -1340,7 +1418,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES ORTEGA, HECTOR HUGO"
+        "Profesor": "TORRES ORTEGA, HECTOR HUGO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "114820",
@@ -1357,7 +1436,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS"
+        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "141261",
@@ -1374,7 +1454,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL"
+        "Profesor": "CERVANTES LOZANO, FRANCISCO JOEL",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "146838",
@@ -1391,7 +1472,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SERRANO GARCIA, DAVID IGNACIO"
+        "Profesor": "SERRANO GARCIA, DAVID IGNACIO",
+        "Carrera": "IGFO"
     },
     {
         "nrc": "143388",
@@ -1408,6 +1490,7 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA RAMIREZ, MARIO ALBERTO"
+        "Profesor": "GARCIA RAMIREZ, MARIO ALBERTO",
+        "Carrera": "IGFO"
     }
 ]

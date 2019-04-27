@@ -14,7 +14,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AYALA HERNANDEZ, LUIS ERNESTO"
+        "Profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "138655",
@@ -31,7 +32,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "103850",
@@ -48,7 +50,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ALDANA LOPEZ, CARLOS IVAN"
+        "Profesor": "ALDANA LOPEZ, CARLOS IVAN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "124876",
@@ -65,7 +68,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ ZAVALA, EMMANUEL"
+        "Profesor": "CRUZ ZAVALA, EMMANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "145987",
@@ -82,7 +86,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CASAS, ANGEL TONATIUH"
+        "Profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153352",
@@ -99,7 +104,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "NU\ufffdO ORTEGA, EMMANUEL"
+        "Profesor": "NU\ufffdO ORTEGA, EMMANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "154481",
@@ -116,7 +122,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AYALA HERNANDEZ, LUIS ERNESTO"
+        "Profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "143400",
@@ -133,7 +140,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS"
+        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "89126",
@@ -150,7 +158,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "91267",
@@ -167,7 +176,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ BEAZ, RICARDO"
+        "Profesor": "VAZQUEZ BEAZ, RICARDO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "113989",
@@ -184,7 +194,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INRO"
     },
     {
         "nrc": "144539",
@@ -201,7 +212,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ALVAREZ, MIGUEL"
+        "Profesor": "SANCHEZ ALVAREZ, MIGUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "92338",
@@ -218,7 +230,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120264",
@@ -235,7 +248,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120264",
@@ -252,7 +266,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INRO"
     },
     {
         "nrc": "138659",
@@ -269,7 +284,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA"
+        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "111399",
@@ -286,7 +302,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO"
+        "Profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "125307",
@@ -303,7 +320,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEJIA MARIN, MARIA ESTHER"
+        "Profesor": "MEJIA MARIN, MARIA ESTHER",
+        "Carrera": "INRO"
     },
     {
         "nrc": "119916",
@@ -320,7 +338,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ NAJERA, ABEL ISAI"
+        "Profesor": "SANCHEZ NAJERA, ABEL ISAI",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153363",
@@ -337,7 +356,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ESTRADA, JAIRO CAIN"
+        "Profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "159303",
@@ -354,7 +374,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "141265",
@@ -371,7 +392,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTOS ARCE, STEWART RENE"
+        "Profesor": "SANTOS ARCE, STEWART RENE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "141265",
@@ -388,7 +410,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTOS ARCE, STEWART RENE"
+        "Profesor": "SANTOS ARCE, STEWART RENE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "89516",
@@ -405,7 +428,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "113990",
@@ -422,7 +446,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "145989",
@@ -439,7 +464,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120478",
@@ -456,7 +482,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "114818",
@@ -473,7 +500,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DURON GONZALEZ, MONICA JUDITH"
+        "Profesor": "DURON GONZALEZ, MONICA JUDITH",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120479",
@@ -490,7 +518,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN"
+        "Profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153764",
@@ -507,7 +536,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ HERNANDEZ, HECTOR"
+        "Profesor": "HERNANDEZ HERNANDEZ, HECTOR",
+        "Carrera": "INRO"
     },
     {
         "nrc": "158797",
@@ -524,7 +554,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "154483",
@@ -541,7 +572,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA"
+        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "154486",
@@ -558,7 +590,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO"
+        "Profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "154486",
@@ -575,7 +608,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO"
+        "Profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "145992",
@@ -592,7 +626,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS"
+        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "103853",
@@ -609,7 +644,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "84602",
@@ -626,7 +662,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "133339",
@@ -643,7 +680,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CHAVEZ MARTINEZ, EHECATL JOEL"
+        "Profesor": "CHAVEZ MARTINEZ, EHECATL JOEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "143403",
@@ -660,7 +698,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO"
+        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120295",
@@ -677,7 +716,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "124875",
@@ -694,7 +734,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ NAJERA, ABEL ISAI"
+        "Profesor": "SANCHEZ NAJERA, ABEL ISAI",
+        "Carrera": "INRO"
     },
     {
         "nrc": "125306",
@@ -711,7 +752,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ MONTELONGO, ROSAURA"
+        "Profesor": "HERNANDEZ MONTELONGO, ROSAURA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "113992",
@@ -728,7 +770,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ORTEGA SANCHEZ, NOE"
+        "Profesor": "ORTEGA SANCHEZ, NOE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "143394",
@@ -745,7 +788,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS"
+        "Profesor": "MORA NU\ufffdEZ, AZAEL DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120482",
@@ -762,7 +806,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYES BARRERA, LUZ MARINA"
+        "Profesor": "REYES BARRERA, LUZ MARINA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "132019",
@@ -779,7 +824,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "132005",
@@ -796,7 +842,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INRO"
     },
     {
         "nrc": "158798",
@@ -813,7 +860,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "132006",
@@ -830,7 +878,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "145998",
@@ -847,7 +896,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "132018",
@@ -864,7 +914,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LANDA HORTA, DANIEL OMAR"
+        "Profesor": "LANDA HORTA, DANIEL OMAR",
+        "Carrera": "INRO"
     },
     {
         "nrc": "138656",
@@ -881,7 +932,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "145995",
@@ -898,7 +950,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DAVALOS BOITES, MICHEL"
+        "Profesor": "DAVALOS BOITES, MICHEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "90532",
@@ -915,7 +968,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120484",
@@ -932,7 +986,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS"
+        "Profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "113991",
@@ -949,7 +1004,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "113991",
@@ -966,7 +1022,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "123584",
@@ -983,7 +1040,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA"
+        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "141291",
@@ -1000,7 +1058,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ SERRANO, EDUVIGES"
+        "Profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "Carrera": "INRO"
     },
     {
         "nrc": "141291",
@@ -1017,7 +1076,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ SERRANO, EDUVIGES"
+        "Profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "Carrera": "INRO"
     },
     {
         "nrc": "114819",
@@ -1034,7 +1094,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA"
+        "Profesor": "VENTURA NU\ufffdEZ, MARIA PATRICIA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "154482",
@@ -1051,7 +1112,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO"
+        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "120485",
@@ -1068,7 +1130,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ RUIZ, CARLOS MANUEL"
+        "Profesor": "HERNANDEZ RUIZ, CARLOS MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "141264",
@@ -1085,7 +1148,8 @@
         "Aula": "LE03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO"
+        "Profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "143401",
@@ -1102,7 +1166,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUZMAN CUELLAR, CLAUDIA VERONICA"
+        "Profesor": "GUZMAN CUELLAR, CLAUDIA VERONICA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "124877",
@@ -1119,7 +1184,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO"
+        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "159311",
@@ -1136,7 +1202,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS"
+        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "103851",
@@ -1153,7 +1220,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZALDIVAR NAVARRO, DANIEL"
+        "Profesor": "ZALDIVAR NAVARRO, DANIEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153410",
@@ -1170,7 +1238,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RIOS ARRA\ufffdAGA, JORGE DANIEL"
+        "Profesor": "RIOS ARRA\ufffdAGA, JORGE DANIEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "138662",
@@ -1187,7 +1256,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RIOS ARRA\ufffdAGA, JORGE DANIEL"
+        "Profesor": "RIOS ARRA\ufffdAGA, JORGE DANIEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "146003",
@@ -1204,7 +1274,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS"
+        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "132020",
@@ -1221,7 +1292,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ AVILA, JAVIER ENRIQUE"
+        "Profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153411",
@@ -1238,7 +1310,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS"
+        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "Carrera": "INRO"
     },
     {
         "nrc": "138661",
@@ -1255,7 +1328,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CASAS, ANGEL TONATIUH"
+        "Profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
+        "Carrera": "INRO"
     },
     {
         "nrc": "92798",
@@ -1272,7 +1346,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ESTRADA, JAIRO CAIN"
+        "Profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
+        "Carrera": "INRO"
     },
     {
         "nrc": "80727",
@@ -1289,7 +1364,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ MORA, JOSE MANUEL"
+        "Profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153414",
@@ -1306,7 +1382,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYES BARRERA, LUZ MARINA"
+        "Profesor": "REYES BARRERA, LUZ MARINA",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153416",
@@ -1323,7 +1400,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ FRANCO, CARLOS ALBERTO"
+        "Profesor": "LOPEZ FRANCO, CARLOS ALBERTO",
+        "Carrera": "INRO"
     },
     {
         "nrc": "153417",
@@ -1340,6 +1418,7 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ AVILA, JAVIER ENRIQUE"
+        "Profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
+        "Carrera": "INRO"
     }
 ]

@@ -12,16 +12,16 @@ class Oferta:
         with open(nombre, 'w') as archivo:
             json.dump(self.lista, archivo, sort_keys=False, indent=4)
 
-    def scrapping(self, url):
+    def scrapping(self, url, nombre):
         r = requests.get(url)
         r.encoding = 'utf-8'
         soup = BeautifulSoup(r.text, 'html.parser')
         items = soup.find_all('tr')
 
-        self.scrapping_oferta(items)
+        self.scrapping_oferta(items, nombre)
 
 
-    def scrapping_oferta(self, oferta):
+    def scrapping_oferta(self, oferta, nombre):
         nrc = ""
         clave = ""
         materia = ""
@@ -38,6 +38,7 @@ class Oferta:
         profesor = ""
         nroFila = 0
         nroCelda = 0
+        carrera = ""
         tam = 2
 
         for fila in oferta:
@@ -144,7 +145,8 @@ class Oferta:
                                         "Aula": aula,
                                         "Periodo": periodo,
                                         "Ses": sesion,
-                                        "Profesor": profesor
+                                        "Profesor": profesor,
+                                        "Carrera": nombre
                                     }
                                     self.lista.append(ofertas)
                                 nroCelda2 = nroCelda2 + 1

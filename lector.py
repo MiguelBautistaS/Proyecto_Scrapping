@@ -95,7 +95,7 @@ def existe_aula(materia):
 
 
 def existe_detalle(materia):
-    query = 'SELECT * FROM detalle where nrc = %s'
+    query = 'SELECT * FROM detalle WHERE nrc = %s'
     cursor.execute(query, (materia['nrc'],))
     rows = cursor.fetchall()
     if len(rows) == 0:
@@ -246,8 +246,8 @@ def insertar_horarios(materia, id_horario):
 
 
 def insertar_oferta(materia, id_clave, id_seccion, id_detalle, id_profesor):
-    query = 'INSERT INTO oferta(nrc, id_clave, id_seccion, id_detalle, id_profesor) VALUES(%s, %s, %s, %s, %s)'
-    cursor.execute(query, (materia['nrc'], id_clave, id_seccion, id_detalle, id_profesor))
+    query = 'INSERT INTO oferta(nrc, id_clave, id_seccion, id_detalle, id_profesor, carrera) VALUES(%s, %s, %s, %s, %s, %s)'
+    cursor.execute(query, (materia['nrc'], id_clave, id_seccion, id_detalle, id_profesor, materia['Carrera']))
     conexion.commit()
 
 # -------------------------------------------------------------------------

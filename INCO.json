@@ -14,7 +14,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDIZABAL RUIZ, EDUARDO GERARDO"
+        "Profesor": "MENDIZABAL RUIZ, EDUARDO GERARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42269",
@@ -31,7 +32,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59565",
@@ -48,7 +50,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA VALDEZ, AURORA"
+        "Profesor": "ESPINOZA VALDEZ, AURORA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59549",
@@ -65,7 +68,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59829",
@@ -82,7 +86,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140468",
@@ -99,7 +104,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RODRIGUEZ ACOSTA, LUIS FERNANDO"
+        "Profesor": "RODRIGUEZ ACOSTA, LUIS FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "88428",
@@ -116,7 +122,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PATI\ufffdO RUIZ, ROBERTO"
+        "Profesor": "PATI\ufffdO RUIZ, ROBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "76088",
@@ -133,7 +140,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEZA ESPINOSA, JOSE JUAN"
+        "Profesor": "MEZA ESPINOSA, JOSE JUAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119887",
@@ -150,7 +158,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138633",
@@ -167,7 +176,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GRAJEDA COVARRUBIAS, ARTURO"
+        "Profesor": "GRAJEDA COVARRUBIAS, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138634",
@@ -184,7 +194,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138635",
@@ -201,7 +212,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GRAJEDA COVARRUBIAS, ARTURO"
+        "Profesor": "GRAJEDA COVARRUBIAS, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138636",
@@ -218,7 +230,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GIL RIVERA, RUBEN ADRIAN"
+        "Profesor": "GIL RIVERA, RUBEN ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153345",
@@ -235,7 +248,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GIL RIVERA, RUBEN ADRIAN"
+        "Profesor": "GIL RIVERA, RUBEN ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159296",
@@ -252,7 +266,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78088",
@@ -269,7 +284,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78090",
@@ -286,7 +302,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78091",
@@ -303,7 +320,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78092",
@@ -320,7 +338,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "NU\ufffdEZ ORTEGA, RUBEN"
+        "Profesor": "NU\ufffdEZ ORTEGA, RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78093",
@@ -337,7 +356,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "NU\ufffdEZ ORTEGA, RUBEN"
+        "Profesor": "NU\ufffdEZ ORTEGA, RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138620",
@@ -354,7 +374,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROMERO GASTELU, MARIA ELENA"
+        "Profesor": "ROMERO GASTELU, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138621",
@@ -371,7 +392,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ VALDIVIA, JAIME ROBERTO"
+        "Profesor": "GOMEZ VALDIVIA, JAIME ROBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140472",
@@ -388,7 +410,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO"
+        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119905",
@@ -405,7 +428,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119906",
@@ -422,7 +446,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131883",
@@ -439,7 +464,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO"
+        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138649",
@@ -456,7 +482,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO"
+        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140931",
@@ -473,7 +500,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ BLANCO, JESUS FRANCISCO"
+        "Profesor": "SANCHEZ BLANCO, JESUS FRANCISCO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42358",
@@ -490,7 +518,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS PULIDO, SOFIA"
+        "Profesor": "RAMOS PULIDO, SOFIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "56947",
@@ -507,7 +536,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "NAVA GOMEZ, JAVIER"
+        "Profesor": "NAVA GOMEZ, JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57198",
@@ -524,7 +554,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DIAZ CALDERA, LIZBETH"
+        "Profesor": "DIAZ CALDERA, LIZBETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77799",
@@ -541,7 +572,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PRADO ALONSO, MARIO ALBERTO"
+        "Profesor": "PRADO ALONSO, MARIO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77802",
@@ -558,7 +590,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PRADO ALONSO, MARIO ALBERTO"
+        "Profesor": "PRADO ALONSO, MARIO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77802",
@@ -575,7 +608,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PRADO ALONSO, MARIO ALBERTO"
+        "Profesor": "PRADO ALONSO, MARIO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77803",
@@ -592,7 +626,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA"
+        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77804",
@@ -609,7 +644,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROSALIO CUEVAS, SAMUEL"
+        "Profesor": "ROSALIO CUEVAS, SAMUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77804",
@@ -626,7 +662,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROSALIO CUEVAS, SAMUEL"
+        "Profesor": "ROSALIO CUEVAS, SAMUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90314",
@@ -643,7 +680,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, ELOISA"
+        "Profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90972",
@@ -660,7 +698,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CENTENO QUEVEDO, JUAN JERONIMO"
+        "Profesor": "CENTENO QUEVEDO, JUAN JERONIMO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90036",
@@ -677,7 +716,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CENTENO QUEVEDO, JUAN JERONIMO"
+        "Profesor": "CENTENO QUEVEDO, JUAN JERONIMO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "87290",
@@ -694,7 +734,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BUENROSTRO ARCEO, ROSALIA"
+        "Profesor": "BUENROSTRO ARCEO, ROSALIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "91914",
@@ -711,7 +752,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RODRIGUEZ MARTINEZ, AGUSTIN"
+        "Profesor": "RODRIGUEZ MARTINEZ, AGUSTIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "91371",
@@ -728,7 +770,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO CASTILLO, OSVALDO"
+        "Profesor": "CAMACHO CASTILLO, OSVALDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "84474",
@@ -745,7 +788,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "94360",
@@ -762,7 +806,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ VAZQUEZ, RICARDO"
+        "Profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "94360",
@@ -779,7 +824,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ VAZQUEZ, RICARDO"
+        "Profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "104154",
@@ -796,7 +842,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH"
+        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "104154",
@@ -813,7 +860,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH"
+        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42362",
@@ -830,7 +878,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PE\ufffdA PEREZ NEGRON, ADRIANA"
+        "Profesor": "PE\ufffdA PEREZ NEGRON, ADRIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42371",
@@ -847,7 +896,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42366",
@@ -864,7 +914,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42373",
@@ -881,7 +932,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42360",
@@ -898,7 +950,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO"
+        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42364",
@@ -915,7 +968,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42369",
@@ -932,7 +986,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42370",
@@ -949,7 +1004,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42365",
@@ -966,7 +1022,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER"
+        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42372",
@@ -983,7 +1040,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42368",
@@ -1000,7 +1058,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO"
+        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59883",
@@ -1017,7 +1076,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO"
+        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42367",
@@ -1034,7 +1094,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42363",
@@ -1051,7 +1112,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59812",
@@ -1068,7 +1130,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42375",
@@ -1085,7 +1148,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LARA LOPEZ, GRACIELA"
+        "Profesor": "LARA LOPEZ, GRACIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59610",
@@ -1102,7 +1166,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59584",
@@ -1119,7 +1184,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59674",
@@ -1136,7 +1202,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59768",
@@ -1153,7 +1220,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LARA LOPEZ, GRACIELA"
+        "Profesor": "LARA LOPEZ, GRACIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59861",
@@ -1170,7 +1238,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUERRERO SEGURA RAMIREZ, MIGUEL ANGEL"
+        "Profesor": "GUERRERO SEGURA RAMIREZ, MIGUEL ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "61882",
@@ -1187,7 +1256,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "130033",
@@ -1204,7 +1274,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LARA LOPEZ, GRACIELA"
+        "Profesor": "LARA LOPEZ, GRACIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43734",
@@ -1221,7 +1292,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43735",
@@ -1238,7 +1310,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43736",
@@ -1255,7 +1328,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43738",
@@ -1272,7 +1346,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CEDANO RODRIGUEZ, ALFREDO"
+        "Profesor": "CEDANO RODRIGUEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43737",
@@ -1289,7 +1364,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43733",
@@ -1306,7 +1382,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ GOMEZ, CONRADO"
+        "Profesor": "CRUZ GOMEZ, CONRADO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43732",
@@ -1323,7 +1400,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ GOMEZ, CONRADO"
+        "Profesor": "CRUZ GOMEZ, CONRADO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "43731",
@@ -1340,7 +1418,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131897",
@@ -1357,7 +1436,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131898",
@@ -1374,7 +1454,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ GOMEZ, CONRADO"
+        "Profesor": "CRUZ GOMEZ, CONRADO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153354",
@@ -1391,7 +1472,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153355",
@@ -1408,7 +1490,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153356",
@@ -1425,7 +1508,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153357",
@@ -1442,7 +1526,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159297",
@@ -1459,7 +1544,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA GONZALEZ, ARTURO"
+        "Profesor": "VALDIVIA GONZALEZ, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159299",
@@ -1476,7 +1562,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA GONZALEZ, ARTURO"
+        "Profesor": "VALDIVIA GONZALEZ, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159300",
@@ -1493,7 +1580,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA GONZALEZ, ARTURO"
+        "Profesor": "VALDIVIA GONZALEZ, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59738",
@@ -1510,7 +1598,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78102",
@@ -1527,7 +1616,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTA\ufffdEDA PINTLE, PEDRO JACOB"
+        "Profesor": "CASTA\ufffdEDA PINTLE, PEDRO JACOB",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78104",
@@ -1544,7 +1634,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL"
+        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78105",
@@ -1561,7 +1652,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78109",
@@ -1578,7 +1670,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138622",
@@ -1595,7 +1688,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138623",
@@ -1612,7 +1706,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147574",
@@ -1629,7 +1724,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARRONA CORDOVA, GUSTAVO"
+        "Profesor": "ARRONA CORDOVA, GUSTAVO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147575",
@@ -1646,7 +1742,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARRONA CORDOVA, GUSTAVO"
+        "Profesor": "ARRONA CORDOVA, GUSTAVO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159301",
@@ -1663,7 +1760,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO"
+        "Profesor": "CUELLAR HERNANDEZ, FRANCISCO GERARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103846",
@@ -1680,7 +1778,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASILLAS SANTILLAN, LUIS ALBERTO"
+        "Profesor": "CASILLAS SANTILLAN, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103847",
@@ -1697,7 +1796,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVA NAVARRO, DIEGO ALBERTO"
+        "Profesor": "OLIVA NAVARRO, DIEGO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119907",
@@ -1714,7 +1814,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES RAMOS, SULEMA"
+        "Profesor": "TORRES RAMOS, SULEMA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140932",
@@ -1731,7 +1832,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124880",
@@ -1748,7 +1850,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARANA DANIEL, NANCY GUADALUPE"
+        "Profesor": "ARANA DANIEL, NANCY GUADALUPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124881",
@@ -1765,7 +1868,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDES LOPEZ, JULIO ESTEBAN"
+        "Profesor": "VALDES LOPEZ, JULIO ESTEBAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140933",
@@ -1782,7 +1886,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO"
+        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "154713",
@@ -1799,7 +1904,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "154713",
@@ -1816,7 +1922,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "154714",
@@ -1833,7 +1940,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "154714",
@@ -1850,7 +1958,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "154715",
@@ -1867,7 +1976,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57160",
@@ -1884,7 +1994,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42454",
@@ -1901,7 +2012,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA NAVA, DALMIRO"
+        "Profesor": "GARCIA NAVA, DALMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42456",
@@ -1918,7 +2030,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42453",
@@ -1935,7 +2048,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42448",
@@ -1952,7 +2066,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42450",
@@ -1969,7 +2084,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42447",
@@ -1986,7 +2102,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ VAZQUEZ, RICARDO"
+        "Profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42455",
@@ -2003,7 +2120,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42455",
@@ -2020,7 +2138,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42452",
@@ -2037,7 +2156,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS RAMOS, JOSE APOLINAR"
+        "Profesor": "MACIAS RAMOS, JOSE APOLINAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42451",
@@ -2054,7 +2174,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA"
+        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42449",
@@ -2071,7 +2192,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "117863",
@@ -2088,7 +2210,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "117863",
@@ -2105,7 +2228,8 @@
         "Aula": "A025",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "117864",
@@ -2122,7 +2246,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMIREZ MORENO, BENJAMIN"
+        "Profesor": "RAMIREZ MORENO, BENJAMIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90891",
@@ -2139,7 +2264,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "152890",
@@ -2156,7 +2282,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VILLALOBOS JIMENEZ, SARA EDITH"
+        "Profesor": "VILLALOBOS JIMENEZ, SARA EDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "93119",
@@ -2173,7 +2300,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ACEVES FERNANDEZ, ELIZABETH"
+        "Profesor": "ACEVES FERNANDEZ, ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42496",
@@ -2190,7 +2318,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORONA SANCHEZ, JUAN CARLOS"
+        "Profesor": "CORONA SANCHEZ, JUAN CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42482",
@@ -2207,7 +2336,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42481",
@@ -2224,7 +2354,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42494",
@@ -2241,7 +2372,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57626",
@@ -2258,7 +2390,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CORTINA, JUAN MANUEL"
+        "Profesor": "HERNANDEZ CORTINA, JUAN MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42495",
@@ -2275,7 +2408,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE"
+        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42478",
@@ -2292,7 +2426,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARELLANO HERNANDEZ, JORGE MARIO"
+        "Profesor": "ARELLANO HERNANDEZ, JORGE MARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42484",
@@ -2309,7 +2444,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ VAZQUEZ, RICARDO"
+        "Profesor": "MARTINEZ VAZQUEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42489",
@@ -2326,7 +2462,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42489",
@@ -2343,7 +2480,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57265",
@@ -2360,7 +2498,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CORTINA, JUAN MANUEL"
+        "Profesor": "HERNANDEZ CORTINA, JUAN MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42483",
@@ -2377,7 +2516,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, ELOISA"
+        "Profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42491",
@@ -2394,7 +2534,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GODINEZ DIETRICH, GABRIELA"
+        "Profesor": "GODINEZ DIETRICH, GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42485",
@@ -2411,7 +2552,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42498",
@@ -2428,7 +2570,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SALDIVAR OROZCO, EMMANUEL"
+        "Profesor": "SALDIVAR OROZCO, EMMANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42490",
@@ -2445,7 +2588,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA"
+        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42497",
@@ -2462,7 +2606,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, ELOISA"
+        "Profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42488",
@@ -2479,7 +2624,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ HERNANDEZ, ROSA ELENA"
+        "Profesor": "HERNANDEZ HERNANDEZ, ROSA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42486",
@@ -2496,7 +2642,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42486",
@@ -2513,7 +2660,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42487",
@@ -2530,7 +2678,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA"
+        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42479",
@@ -2547,7 +2696,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMIREZ MORENO, BENJAMIN"
+        "Profesor": "RAMIREZ MORENO, BENJAMIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42493",
@@ -2564,7 +2714,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINO ROJAS, NORMA ELVA"
+        "Profesor": "ESPINO ROJAS, NORMA ELVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42492",
@@ -2581,7 +2732,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUNA ARELLANO, MAYRA LORENA"
+        "Profesor": "LUNA ARELLANO, MAYRA LORENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42480",
@@ -2598,7 +2750,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "36198",
@@ -2615,7 +2768,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42513",
@@ -2632,7 +2786,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ SERRANO, EDUVIGES"
+        "Profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42505",
@@ -2649,7 +2804,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY"
+        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42507",
@@ -2666,7 +2822,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42507",
@@ -2683,7 +2840,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42514",
@@ -2700,7 +2858,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CORONA, GUSTAVO"
+        "Profesor": "HERNANDEZ CORONA, GUSTAVO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42501",
@@ -2717,7 +2876,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY"
+        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42515",
@@ -2734,7 +2894,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42512",
@@ -2751,7 +2912,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL"
+        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42506",
@@ -2768,7 +2930,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42510",
@@ -2785,7 +2948,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AGUILA GOMEZ, RICARDO"
+        "Profesor": "AGUILA GOMEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42499",
@@ -2802,7 +2966,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42504",
@@ -2819,7 +2984,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42511",
@@ -2836,7 +3002,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42502",
@@ -2853,7 +3020,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL"
+        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42508",
@@ -2870,7 +3038,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL"
+        "Profesor": "AREVALO CARDONA, ALFREDO MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "91358",
@@ -2887,7 +3056,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEJIA MARIN, MARIA ESTHER"
+        "Profesor": "MEJIA MARIN, MARIA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "84050",
@@ -2904,7 +3074,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY"
+        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42509",
@@ -2921,7 +3092,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42509",
@@ -2938,7 +3110,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42500",
@@ -2955,7 +3128,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42503",
@@ -2972,7 +3146,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY"
+        "Profesor": "VELAZQUEZ ORTEGA, ANA BETTY",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77791",
@@ -2989,7 +3164,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "77792",
@@ -3006,7 +3182,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "88899",
@@ -3023,7 +3200,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH"
+        "Profesor": "LOPEZ ALCALA, MARITZA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "87827",
@@ -3040,7 +3218,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS SANDOVAL, OMAR VLADIMIR"
+        "Profesor": "MACIAS SANDOVAL, OMAR VLADIMIR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "87827",
@@ -3057,7 +3236,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS SANDOVAL, OMAR VLADIMIR"
+        "Profesor": "MACIAS SANDOVAL, OMAR VLADIMIR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57150",
@@ -3074,7 +3254,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57237",
@@ -3091,7 +3272,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57423",
@@ -3108,7 +3290,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57480",
@@ -3125,7 +3308,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57506",
@@ -3142,7 +3326,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN"
+        "Profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57309",
@@ -3159,7 +3344,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "56959",
@@ -3176,7 +3362,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DE LA CRUZ GARCIA, ELBA LILIA"
+        "Profesor": "DE LA CRUZ GARCIA, ELBA LILIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57263",
@@ -3193,7 +3380,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57146",
@@ -3210,7 +3398,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE"
+        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57146",
@@ -3227,7 +3416,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE"
+        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57095",
@@ -3244,7 +3434,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57430",
@@ -3261,7 +3452,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "10641",
@@ -3278,7 +3470,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES CORTEZ, OMAR RAFAEL"
+        "Profesor": "TORRES CORTEZ, OMAR RAFAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "84333",
@@ -3295,7 +3488,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "94572",
@@ -3312,7 +3506,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUILLEN BONILLA, JOSE TRINIDAD"
+        "Profesor": "GUILLEN BONILLA, JOSE TRINIDAD",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42570",
@@ -3329,7 +3524,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42577",
@@ -3346,7 +3542,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROMERO GASTELU, MARIA ELENA"
+        "Profesor": "ROMERO GASTELU, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42579",
@@ -3363,7 +3560,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42574",
@@ -3380,7 +3578,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42578",
@@ -3397,7 +3596,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42555",
@@ -3414,7 +3614,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ROSARIO, PATRICIA"
+        "Profesor": "SANCHEZ ROSARIO, PATRICIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42573",
@@ -3431,7 +3632,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42563",
@@ -3448,7 +3650,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42564",
@@ -3465,7 +3668,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OSORIO ANGEL, SONIA"
+        "Profesor": "OSORIO ANGEL, SONIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42553",
@@ -3482,7 +3686,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42575",
@@ -3499,7 +3704,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42560",
@@ -3516,7 +3722,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42567",
@@ -3533,7 +3740,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ LOPEZ, LAURA"
+        "Profesor": "LOPEZ LOPEZ, LAURA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42581",
@@ -3550,7 +3758,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO"
+        "Profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42576",
@@ -3567,7 +3776,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ GOMEZ, CONRADO"
+        "Profesor": "CRUZ GOMEZ, CONRADO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42571",
@@ -3584,7 +3794,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA"
+        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42561",
@@ -3601,7 +3812,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ROSARIO, PATRICIA"
+        "Profesor": "SANCHEZ ROSARIO, PATRICIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42572",
@@ -3618,7 +3830,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA"
+        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42565",
@@ -3635,7 +3848,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES GONZALEZ, LEOPOLDO"
+        "Profesor": "MORALES GONZALEZ, LEOPOLDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42566",
@@ -3652,7 +3866,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42559",
@@ -3669,7 +3884,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42556",
@@ -3686,7 +3902,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES LOPEZ, LUIS ANGEL"
+        "Profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42557",
@@ -3703,7 +3920,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO"
+        "Profesor": "RAMIREZ GAYTAN, GONZALO ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42554",
@@ -3720,7 +3938,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA"
+        "Profesor": "HERRERA PE\ufffdA, KARLA GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42580",
@@ -3737,7 +3956,8 @@
         "Aula": "\u00a0",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42568",
@@ -3754,7 +3974,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESTRADA GUZMAN, ELSA"
+        "Profesor": "ESTRADA GUZMAN, ELSA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42558",
@@ -3771,7 +3992,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "120267",
@@ -3788,7 +4010,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OSORIO ANGEL, SONIA"
+        "Profesor": "OSORIO ANGEL, SONIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "120268",
@@ -3805,7 +4028,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "130036",
@@ -3822,7 +4046,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147795",
@@ -3839,7 +4064,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147796",
@@ -3856,7 +4082,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78137",
@@ -3873,7 +4100,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ RODRIGUEZ, MARIO"
+        "Profesor": "JIMENEZ RODRIGUEZ, MARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "93217",
@@ -3890,7 +4118,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CISNEROS, JUAN JOSE"
+        "Profesor": "LOPEZ CISNEROS, JUAN JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "88626",
@@ -3907,7 +4136,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CISNEROS, JUAN JOSE"
+        "Profesor": "LOPEZ CISNEROS, JUAN JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119880",
@@ -3924,7 +4154,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124890",
@@ -3941,7 +4172,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MALDONADO MERCADO, JOSE RUBEN"
+        "Profesor": "MALDONADO MERCADO, JOSE RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124891",
@@ -3958,7 +4190,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMARENA ROBLES, CARLOS"
+        "Profesor": "CAMARENA ROBLES, CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138628",
@@ -3975,7 +4208,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ RODRIGUEZ, MARIO"
+        "Profesor": "JIMENEZ RODRIGUEZ, MARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138629",
@@ -3992,7 +4226,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ RODRIGUEZ, MARIO"
+        "Profesor": "JIMENEZ RODRIGUEZ, MARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138631",
@@ -4009,7 +4244,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "JIMENEZ RODRIGUEZ, MARIO"
+        "Profesor": "JIMENEZ RODRIGUEZ, MARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147794",
@@ -4026,7 +4262,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MALDONADO MERCADO, JOSE RUBEN"
+        "Profesor": "MALDONADO MERCADO, JOSE RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147815",
@@ -4043,7 +4280,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MERCADO GARIBAY, SAMUEL"
+        "Profesor": "MERCADO GARIBAY, SAMUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147839",
@@ -4060,7 +4298,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MERCADO GARIBAY, SAMUEL"
+        "Profesor": "MERCADO GARIBAY, SAMUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153370",
@@ -4077,7 +4316,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMARENA ROBLES, CARLOS"
+        "Profesor": "CAMARENA ROBLES, CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159304",
@@ -4094,7 +4334,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159305",
@@ -4111,7 +4352,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RIVERA AGUILAR, BEATRIZ ADRIANA"
+        "Profesor": "RIVERA AGUILAR, BEATRIZ ADRIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78139",
@@ -4128,7 +4370,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ CHOLICO, CARLOS"
+        "Profesor": "VAZQUEZ CHOLICO, CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78140",
@@ -4145,7 +4388,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119897",
@@ -4162,7 +4406,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119900",
@@ -4179,7 +4424,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "122714",
@@ -4196,7 +4442,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CEDANO RODRIGUEZ, ALFREDO"
+        "Profesor": "CEDANO RODRIGUEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138645",
@@ -4213,7 +4460,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "146219",
@@ -4230,7 +4478,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA GUTIERREZ, MOISES"
+        "Profesor": "MENDOZA GUTIERREZ, MOISES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153371",
@@ -4247,7 +4496,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARGAEZ REA, JUAN ALEJANDRO"
+        "Profesor": "ARGAEZ REA, JUAN ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153372",
@@ -4264,7 +4514,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159306",
@@ -4281,7 +4532,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RIVERA AGUILAR, BEATRIZ ADRIANA"
+        "Profesor": "RIVERA AGUILAR, BEATRIZ ADRIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "30426",
@@ -4298,7 +4550,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "88159",
@@ -4315,7 +4568,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "93378",
@@ -4332,7 +4586,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140470",
@@ -4349,7 +4604,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "145993",
@@ -4366,7 +4622,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOTO SANCHEZ, JOSE DE JESUS"
+        "Profesor": "SOTO SANCHEZ, JOSE DE JESUS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147818",
@@ -4383,7 +4640,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO"
+        "Profesor": "CAMPOS SERRANO, EDUARDO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42649",
@@ -4400,7 +4658,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LANDA HORTA, DANIEL OMAR"
+        "Profesor": "LANDA HORTA, DANIEL OMAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42744",
@@ -4417,7 +4676,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42659",
@@ -4434,7 +4694,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60075",
@@ -4451,7 +4712,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78114",
@@ -4468,7 +4730,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42686",
@@ -4485,7 +4748,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42712",
@@ -4502,7 +4766,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42712",
@@ -4519,7 +4784,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "56980",
@@ -4536,7 +4802,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ JIMENEZ, REYNALDO"
+        "Profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "83668",
@@ -4553,7 +4820,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO"
+        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "83668",
@@ -4570,7 +4838,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO"
+        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "84374",
@@ -4587,7 +4856,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ LOPEZ, VALENTIN"
+        "Profesor": "MARTINEZ LOPEZ, VALENTIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103840",
@@ -4604,7 +4874,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SOLTERO, ERASMO GABRIEL"
+        "Profesor": "MARTINEZ SOLTERO, ERASMO GABRIEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103844",
@@ -4621,7 +4892,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78141",
@@ -4638,7 +4910,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO"
+        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124886",
@@ -4655,7 +4928,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124886",
@@ -4672,7 +4946,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103848",
@@ -4689,7 +4964,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ALANIS GARCIA, ALMA YOLANDA"
+        "Profesor": "ALANIS GARCIA, ALMA YOLANDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42648",
@@ -4706,7 +4982,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LANDA HORTA, DANIEL OMAR"
+        "Profesor": "LANDA HORTA, DANIEL OMAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42770",
@@ -4723,7 +5000,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42658",
@@ -4740,7 +5018,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO"
+        "Profesor": "GUTIERREZ HERNANDEZ, ALFREDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78117",
@@ -4757,7 +5036,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEDELLIN SERNA, LUIS ANTONIO"
+        "Profesor": "MEDELLIN SERNA, LUIS ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42708",
@@ -4774,7 +5054,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH"
+        "Profesor": "HERNANDEZ CEDILLO, TONANTZIN JUDITH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42718",
@@ -4791,7 +5072,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42718",
@@ -4808,7 +5090,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57031",
@@ -4825,7 +5108,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "93403",
@@ -4842,7 +5126,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEZA ESPINOSA, JOSE JUAN"
+        "Profesor": "MEZA ESPINOSA, JOSE JUAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "82849",
@@ -4859,7 +5144,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103841",
@@ -4876,7 +5162,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ FRANCO, MICHEL EMANUEL"
+        "Profesor": "LOPEZ FRANCO, MICHEL EMANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103845",
@@ -4893,7 +5180,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103845",
@@ -4910,7 +5198,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124887",
@@ -4927,7 +5216,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103849",
@@ -4944,7 +5234,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AVI\ufffdA MENDEZ, JOSE ANTONIO"
+        "Profesor": "AVI\ufffdA MENDEZ, JOSE ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124883",
@@ -4961,7 +5252,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDES LOPEZ, JULIO ESTEBAN"
+        "Profesor": "VALDES LOPEZ, JULIO ESTEBAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42776",
@@ -4978,7 +5270,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROMERO GASTELU, MARIA ELENA"
+        "Profesor": "ROMERO GASTELU, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42651",
@@ -4995,7 +5288,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DAVALOS BOITES, MICHEL"
+        "Profesor": "DAVALOS BOITES, MICHEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78095",
@@ -5012,7 +5306,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LANDA HORTA, DANIEL OMAR"
+        "Profesor": "LANDA HORTA, DANIEL OMAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78118",
@@ -5029,7 +5324,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL"
+        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42671",
@@ -5046,7 +5342,8 @@
         "Aula": "A028",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42671",
@@ -5063,7 +5360,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42729",
@@ -5080,7 +5378,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57629",
@@ -5097,7 +5396,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINO ROJAS, NORMA ELVA"
+        "Profesor": "ESPINO ROJAS, NORMA ELVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "91842",
@@ -5114,7 +5414,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119896",
@@ -5131,7 +5432,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO"
+        "Profesor": "BECERRA VELAZQUEZ, VIOLETA DEL ROCIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78143",
@@ -5148,7 +5450,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA"
+        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131878",
@@ -5165,7 +5468,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ AVILES, LUIS HEBERTO"
+        "Profesor": "GUTIERREZ AVILES, LUIS HEBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119908",
@@ -5182,7 +5486,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42647",
@@ -5199,7 +5504,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DAVALOS BOITES, MICHEL"
+        "Profesor": "DAVALOS BOITES, MICHEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42764",
@@ -5216,7 +5522,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42667",
@@ -5233,7 +5540,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DAVALOS BOITES, MICHEL"
+        "Profesor": "DAVALOS BOITES, MICHEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59894",
@@ -5250,7 +5558,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78096",
@@ -5267,7 +5576,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78119",
@@ -5284,7 +5594,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL"
+        "Profesor": "ZAMORA RAMOS, VICTOR MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42676",
@@ -5301,7 +5612,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42721",
@@ -5318,7 +5630,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PAREDES AGUILA, IRMA YOLANDA"
+        "Profesor": "PAREDES AGUILA, IRMA YOLANDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57582",
@@ -5335,7 +5648,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FUENTES FIGUEROA, EDGAR"
+        "Profesor": "FUENTES FIGUEROA, EDGAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57582",
@@ -5352,7 +5666,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FUENTES FIGUEROA, EDGAR"
+        "Profesor": "FUENTES FIGUEROA, EDGAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138642",
@@ -5369,7 +5684,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS BARAJAS, ARMANDO"
+        "Profesor": "RAMOS BARAJAS, ARMANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131874",
@@ -5386,7 +5702,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78144",
@@ -5403,7 +5720,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA"
+        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131879",
@@ -5420,7 +5738,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "130032",
@@ -5437,7 +5756,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS"
+        "Profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140934",
@@ -5454,7 +5774,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO"
+        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59928",
@@ -5471,7 +5792,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60090",
@@ -5488,7 +5810,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78097",
@@ -5505,7 +5828,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ROMAN GODINEZ, ISRAEL"
+        "Profesor": "ROMAN GODINEZ, ISRAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42706",
@@ -5522,7 +5846,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES CORTEZ, OMAR RAFAEL"
+        "Profesor": "TORRES CORTEZ, OMAR RAFAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "87697",
@@ -5539,7 +5864,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PATI\ufffdO RUIZ, ROBERTO"
+        "Profesor": "PATI\ufffdO RUIZ, ROBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119893",
@@ -5556,7 +5882,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ LOPEZ, VALENTIN"
+        "Profesor": "MARTINEZ LOPEZ, VALENTIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138643",
@@ -5573,7 +5900,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS BARAJAS, ARMANDO"
+        "Profesor": "RAMOS BARAJAS, ARMANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140727",
@@ -5590,7 +5918,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119904",
@@ -5607,7 +5936,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA"
+        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131880",
@@ -5624,7 +5954,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140935",
@@ -5641,7 +5972,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "145999",
@@ -5658,7 +5990,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVA NAVARRO, DIEGO ALBERTO"
+        "Profesor": "OLIVA NAVARRO, DIEGO ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59614",
@@ -5675,7 +6008,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59763",
@@ -5692,7 +6026,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CISNEROS, JUAN JOSE"
+        "Profesor": "LOPEZ CISNEROS, JUAN JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59763",
@@ -5709,7 +6044,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CISNEROS, JUAN JOSE"
+        "Profesor": "LOPEZ CISNEROS, JUAN JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78098",
@@ -5726,7 +6062,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78121",
@@ -5743,7 +6080,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESTRADA GUZMAN, ELSA"
+        "Profesor": "ESTRADA GUZMAN, ELSA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42695",
@@ -5760,7 +6098,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42695",
@@ -5777,7 +6116,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET"
+        "Profesor": "LOPEZ CONTRERAS, NARDA LIZBET",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119890",
@@ -5794,7 +6134,8 @@
         "Aula": "\u00a0",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PATI\ufffdO RUIZ, ROBERTO"
+        "Profesor": "PATI\ufffdO RUIZ, ROBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "130035",
@@ -5811,7 +6152,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153407",
@@ -5828,7 +6170,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS BARAJAS, ARMANDO"
+        "Profesor": "RAMOS BARAJAS, ARMANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153405",
@@ -5845,7 +6188,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138646",
@@ -5862,7 +6206,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131881",
@@ -5879,7 +6224,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153388",
@@ -5896,7 +6242,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARENAS YERENA, CARLOS DARIO"
+        "Profesor": "ARENAS YERENA, CARLOS DARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59577",
@@ -5913,7 +6260,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42655",
@@ -5930,7 +6278,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78099",
@@ -5947,7 +6296,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESTRADA GUZMAN, ELSA"
+        "Profesor": "ESTRADA GUZMAN, ELSA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78122",
@@ -5964,7 +6314,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESTRADA GUZMAN, ELSA"
+        "Profesor": "ESTRADA GUZMAN, ELSA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78122",
@@ -5981,7 +6332,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESTRADA GUZMAN, ELSA"
+        "Profesor": "ESTRADA GUZMAN, ELSA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42681",
@@ -5998,7 +6350,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, ELOISA"
+        "Profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42681",
@@ -6015,7 +6368,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTIAGO HERNANDEZ, ELOISA"
+        "Profesor": "SANTIAGO HERNANDEZ, ELOISA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138641",
@@ -6032,7 +6386,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ LOPEZ, VALENTIN"
+        "Profesor": "MARTINEZ LOPEZ, VALENTIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159310",
@@ -6049,7 +6404,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA GONZALEZ, ARTURO"
+        "Profesor": "VALDIVIA GONZALEZ, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159310",
@@ -6066,7 +6422,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA GONZALEZ, ARTURO"
+        "Profesor": "VALDIVIA GONZALEZ, ARTURO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153389",
@@ -6083,7 +6440,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO"
+        "Profesor": "VILLASE\ufffdOR PADILLA, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42774",
@@ -6100,7 +6458,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59636",
@@ -6117,7 +6476,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER"
+        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "78100",
@@ -6134,7 +6494,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER"
+        "Profesor": "QUINTANILLA MORENO, FRANCISCO JAVIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "82847",
@@ -6151,7 +6512,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEDELLIN SERNA, LUIS ANTONIO"
+        "Profesor": "MEDELLIN SERNA, LUIS ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42696",
@@ -6168,7 +6530,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA"
+        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138639",
@@ -6185,7 +6548,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO"
+        "Profesor": "SANCHEZ ROMERO, CARLOS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153406",
@@ -6202,7 +6566,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ LOPEZ, VALENTIN"
+        "Profesor": "MARTINEZ LOPEZ, VALENTIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140726",
@@ -6219,7 +6584,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO"
+        "Profesor": "GARCIA AGUILERA, ANIBAL ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60033",
@@ -6236,7 +6602,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42749",
@@ -6253,7 +6620,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59657",
@@ -6270,7 +6638,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90836",
@@ -6287,7 +6656,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42680",
@@ -6304,7 +6674,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138640",
@@ -6321,7 +6692,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59703",
@@ -6338,7 +6710,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59703",
@@ -6355,7 +6728,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42739",
@@ -6372,7 +6746,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42654",
@@ -6389,7 +6764,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SENCION ECHAURI, FELIPE"
+        "Profesor": "SENCION ECHAURI, FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59623",
@@ -6406,7 +6782,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BOLA\ufffdOS GUTIERREZ, SERGIO MANUEL"
+        "Profesor": "BOLA\ufffdOS GUTIERREZ, SERGIO MANUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "90388",
@@ -6423,7 +6800,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138624",
@@ -6440,7 +6818,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57680",
@@ -6457,7 +6836,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140464",
@@ -6474,7 +6854,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "146220",
@@ -6491,7 +6872,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS"
+        "Profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "146220",
@@ -6508,7 +6890,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS"
+        "Profesor": "GALVEZ RODRIGUEZ, JORGE DE JESUS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60091",
@@ -6525,7 +6908,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42769",
@@ -6542,7 +6926,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42653",
@@ -6559,7 +6944,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ AVILA, JORGE"
+        "Profesor": "VAZQUEZ AVILA, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60055",
@@ -6576,7 +6962,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "94334",
@@ -6593,7 +6980,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PEREZ TORRES, GRISELDA"
+        "Profesor": "PEREZ TORRES, GRISELDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138625",
@@ -6610,7 +6998,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA"
+        "Profesor": "VAZQUEZ CURIEL, ARMIDA GRISELDA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42730",
@@ -6627,7 +7016,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42730",
@@ -6644,7 +7034,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA SANCHEZ, ROSALBA"
+        "Profesor": "ESPINOZA SANCHEZ, ROSALBA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57734",
@@ -6661,7 +7052,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57734",
@@ -6678,7 +7070,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153375",
@@ -6695,7 +7088,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153399",
@@ -6712,7 +7106,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42738",
@@ -6729,7 +7124,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42664",
@@ -6746,7 +7142,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59922",
@@ -6763,7 +7160,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARENAS YERENA, CARLOS DARIO"
+        "Profesor": "ARENAS YERENA, CARLOS DARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59922",
@@ -6780,7 +7178,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARENAS YERENA, CARLOS DARIO"
+        "Profesor": "ARENAS YERENA, CARLOS DARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "126110",
@@ -6797,7 +7196,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "DAVALOS BOITES, MICHEL"
+        "Profesor": "DAVALOS BOITES, MICHEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159309",
@@ -6814,7 +7214,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTA\ufffdEDA PINTLE, PEDRO JACOB"
+        "Profesor": "CASTA\ufffdEDA PINTLE, PEDRO JACOB",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57706",
@@ -6831,7 +7232,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN"
+        "Profesor": "BELTRAN AGUIRRE, FABIOLA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153379",
@@ -6848,7 +7250,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO"
+        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153400",
@@ -6865,7 +7268,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42657",
@@ -6882,7 +7286,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140476",
@@ -6899,7 +7304,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO"
+        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "140476",
@@ -6916,7 +7322,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO"
+        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42714",
@@ -6933,7 +7340,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57674",
@@ -6950,7 +7358,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57674",
@@ -6967,7 +7376,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153374",
@@ -6984,7 +7394,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO"
+        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59556",
@@ -7001,7 +7412,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42650",
@@ -7018,7 +7430,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL"
+        "Profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153381",
@@ -7035,7 +7448,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO"
+        "Profesor": "VAZQUEZ HERRERA, JOSE IGNACIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57306",
@@ -7052,7 +7466,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "OLIVARES PEREZ, MARIA ELENA"
+        "Profesor": "OLIVARES PEREZ, MARIA ELENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153377",
@@ -7069,7 +7484,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO"
+        "Profesor": "LOPEZ ARCE DELGADO, JORGE ERNESTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153402",
@@ -7086,7 +7502,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ANAYA OLIVEROS, JORGE"
+        "Profesor": "ANAYA OLIVEROS, JORGE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "60051",
@@ -7103,7 +7520,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42762",
@@ -7120,7 +7538,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42652",
@@ -7137,7 +7556,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "59848",
@@ -7154,7 +7574,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153383",
@@ -7171,7 +7592,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42728",
@@ -7188,7 +7610,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CERVANTES LOMELI, ADRIAN"
+        "Profesor": "CERVANTES LOMELI, ADRIAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57168",
@@ -7205,7 +7628,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINO ROJAS, NORMA ELVA"
+        "Profesor": "ESPINO ROJAS, NORMA ELVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57168",
@@ -7222,7 +7646,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINO ROJAS, NORMA ELVA"
+        "Profesor": "ESPINO ROJAS, NORMA ELVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153403",
@@ -7239,7 +7664,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA"
+        "Profesor": "REYNOSO GOMEZ, BLANCA LORENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42779",
@@ -7256,7 +7682,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CRUZ GOMEZ, CONRADO"
+        "Profesor": "CRUZ GOMEZ, CONRADO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "88827",
@@ -7273,7 +7700,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153385",
@@ -7290,7 +7718,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CAMACHO SANTILLAN, VERONICA"
+        "Profesor": "CAMACHO SANTILLAN, VERONICA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57645",
@@ -7307,7 +7736,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ JIMENEZ, REYNALDO"
+        "Profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57645",
@@ -7324,7 +7754,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ JIMENEZ, REYNALDO"
+        "Profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42767",
@@ -7341,7 +7772,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42660",
@@ -7358,7 +7790,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER"
+        "Profesor": "SANCHEZ SANCHEZ, OSCAR DIDIER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "94127",
@@ -7375,7 +7808,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159307",
@@ -7392,7 +7826,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57302",
@@ -7409,7 +7844,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57302",
@@ -7426,7 +7862,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57426",
@@ -7443,7 +7880,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINO ROJAS, NORMA ELVA"
+        "Profesor": "ESPINO ROJAS, NORMA ELVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138616",
@@ -7460,7 +7898,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUERRERO SEGURA RAMIREZ, MIGUEL ANGEL"
+        "Profesor": "GUERRERO SEGURA RAMIREZ, MIGUEL ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42675",
@@ -7477,7 +7916,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VALDIVIA BAUTISTA, SANDRA MINERVA"
+        "Profesor": "VALDIVIA BAUTISTA, SANDRA MINERVA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42724",
@@ -7494,7 +7934,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA SANCHEZ, FERNANDO"
+        "Profesor": "GARCIA SANCHEZ, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42724",
@@ -7511,7 +7952,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA SANCHEZ, FERNANDO"
+        "Profesor": "GARCIA SANCHEZ, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "57457",
@@ -7528,7 +7970,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ JIMENEZ, REYNALDO"
+        "Profesor": "GOMEZ JIMENEZ, REYNALDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42759",
@@ -7545,7 +7988,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42759",
@@ -7562,7 +8006,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138617",
@@ -7579,7 +8024,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARISCAL LUGO, LUIS FELIPE"
+        "Profesor": "MARISCAL LUGO, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42691",
@@ -7596,7 +8042,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42731",
@@ -7613,7 +8060,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH"
+        "Profesor": "GOMEZ MARQUEZ, CAROLINA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138618",
@@ -7630,7 +8078,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI"
+        "Profesor": "CASTELLANOS BARAJAS, JANETTE ARACELI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "123619",
@@ -7647,7 +8096,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA"
+        "Profesor": "MARQUEZ FRAUSTO, TERESA GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133389",
@@ -7664,7 +8114,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO PEREZ, ALONSO"
+        "Profesor": "CASTILLO PEREZ, ALONSO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42758",
@@ -7681,7 +8132,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES LOPEZ, LUIS ANGEL"
+        "Profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42758",
@@ -7698,7 +8150,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES LOPEZ, LUIS ANGEL"
+        "Profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42656",
@@ -7715,7 +8168,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138619",
@@ -7732,7 +8186,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LUPERCIO CORONEL, RAMIRO"
+        "Profesor": "LUPERCIO CORONEL, RAMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42704",
@@ -7749,7 +8204,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42733",
@@ -7766,7 +8222,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORTES NAVARRO, LAURA ESTHER"
+        "Profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159308",
@@ -7783,7 +8240,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARENAS YERENA, CARLOS DARIO"
+        "Profesor": "ARENAS YERENA, CARLOS DARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124199",
@@ -7800,7 +8258,8 @@
         "Aula": "A019",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORONA SANCHEZ, JUAN CARLOS"
+        "Profesor": "CORONA SANCHEZ, JUAN CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124199",
@@ -7817,7 +8276,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORONA SANCHEZ, JUAN CARLOS"
+        "Profesor": "CORONA SANCHEZ, JUAN CARLOS",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133390",
@@ -7834,7 +8294,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ABUNDIS SANCHEZ, MIGUEL"
+        "Profesor": "ABUNDIS SANCHEZ, MIGUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133390",
@@ -7851,7 +8312,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ABUNDIS SANCHEZ, MIGUEL"
+        "Profesor": "ABUNDIS SANCHEZ, MIGUEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42663",
@@ -7868,7 +8330,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ARENAS YERENA, CARLOS DARIO"
+        "Profesor": "ARENAS YERENA, CARLOS DARIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133391",
@@ -7885,7 +8348,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42679",
@@ -7902,7 +8366,8 @@
         "Aula": "A018",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SALAS ZU\ufffdIGA, NORBERTO"
+        "Profesor": "SALAS ZU\ufffdIGA, NORBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133392",
@@ -7919,7 +8384,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133392",
@@ -7936,7 +8402,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ELIZALDE CAMINO, FERNANDO"
+        "Profesor": "ELIZALDE CAMINO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42753",
@@ -7953,7 +8420,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42705",
@@ -7970,7 +8438,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "AGUILA GOMEZ, RICARDO"
+        "Profesor": "AGUILA GOMEZ, RICARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133393",
@@ -7987,7 +8456,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO"
+        "Profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124200",
@@ -8004,7 +8474,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MONTES NAVARRO, MARIANA SARAHI"
+        "Profesor": "MONTES NAVARRO, MARIANA SARAHI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133394",
@@ -8021,7 +8492,8 @@
         "Aula": "A024",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133394",
@@ -8038,7 +8510,8 @@
         "Aula": "A023",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42771",
@@ -8055,7 +8528,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124201",
@@ -8072,7 +8546,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA SANTOS, ROSA DELIA"
+        "Profesor": "MENDOZA SANTOS, ROSA DELIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42711",
@@ -8089,7 +8564,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO PEREZ, ALONSO"
+        "Profesor": "CASTILLO PEREZ, ALONSO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42763",
@@ -8106,7 +8582,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124202",
@@ -8123,7 +8600,8 @@
         "Aula": "A022",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42755",
@@ -8140,7 +8618,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ORTIZ PIMENTEL, BELEN ANABETT"
+        "Profesor": "ORTIZ PIMENTEL, BELEN ANABETT",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42693",
@@ -8157,7 +8636,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42717",
@@ -8174,7 +8654,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42727",
@@ -8191,7 +8672,8 @@
         "Aula": "A010",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GARCIA NAVA, DALMIRO"
+        "Profesor": "GARCIA NAVA, DALMIRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42761",
@@ -8208,7 +8690,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES LOPEZ, LUIS ANGEL"
+        "Profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42674",
@@ -8225,7 +8708,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MONTES NAVARRO, MARIANA SARAHI"
+        "Profesor": "MONTES NAVARRO, MARIANA SARAHI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42674",
@@ -8242,7 +8726,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MONTES NAVARRO, MARIANA SARAHI"
+        "Profesor": "MONTES NAVARRO, MARIANA SARAHI",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42720",
@@ -8259,7 +8744,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CASTILLO PEREZ, ALONSO"
+        "Profesor": "CASTILLO PEREZ, ALONSO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42687",
@@ -8276,7 +8762,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA"
+        "Profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133395",
@@ -8293,7 +8780,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133395",
@@ -8310,7 +8798,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SOLIS RODRIGUEZ, JOSE"
+        "Profesor": "SOLIS RODRIGUEZ, JOSE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42737",
@@ -8327,7 +8816,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUERRERO CARLOS, ANA JAZMIN"
+        "Profesor": "GUERRERO CARLOS, ANA JAZMIN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124203",
@@ -8344,7 +8834,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "133396",
@@ -8361,7 +8852,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BOCARDO GASPAR, MIRIAM"
+        "Profesor": "BOCARDO GASPAR, MIRIAM",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124204",
@@ -8378,7 +8870,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CORONA, GUSTAVO"
+        "Profesor": "HERNANDEZ CORONA, GUSTAVO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124204",
@@ -8395,7 +8888,8 @@
         "Aula": "A017",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ CORONA, GUSTAVO"
+        "Profesor": "HERNANDEZ CORONA, GUSTAVO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42783",
@@ -8412,7 +8906,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124205",
@@ -8429,7 +8924,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE"
+        "Profesor": "FERNANDEZ LUNA, MA. GUADALUPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42748",
@@ -8446,7 +8942,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MUNGUIA ALCALA, RODRIGO FRANCISCO"
+        "Profesor": "MUNGUIA ALCALA, RODRIGO FRANCISCO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42690",
@@ -8463,7 +8960,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA"
+        "Profesor": "CORDOVA GONZALEZ, VERONICA ILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124206",
@@ -8480,7 +8978,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PANTOJA ESPINOZA, DELIAZAR"
+        "Profesor": "PANTOJA ESPINOZA, DELIAZAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42756",
@@ -8497,7 +8996,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42707",
@@ -8514,7 +9014,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RODRIGUEZ MEDINA, GUADALUPE ISABEL"
+        "Profesor": "RODRIGUEZ MEDINA, GUADALUPE ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42743",
@@ -8531,7 +9032,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42760",
@@ -8548,7 +9050,8 @@
         "Aula": "LC05",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42697",
@@ -8565,7 +9068,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA"
+        "Profesor": "FLORES SANDOVAL, MIRIAM ILEANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42785",
@@ -8582,7 +9086,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERRERA LUJAN, ZOILA LILIANA"
+        "Profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42754",
@@ -8599,7 +9104,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42735",
@@ -8616,7 +9122,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42766",
@@ -8633,7 +9140,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42673",
@@ -8650,7 +9158,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO"
+        "Profesor": "REAL GUERRERO, MARIA DEL SOCORRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42765",
@@ -8667,7 +9176,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42777",
@@ -8684,7 +9194,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42777",
@@ -8701,7 +9212,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42772",
@@ -8718,7 +9230,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES RAMIREZ, THELMA ISABEL"
+        "Profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42780",
@@ -8735,7 +9248,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BURIEL AVILA, EMILIANO"
+        "Profesor": "BURIEL AVILA, EMILIANO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42742",
@@ -8752,7 +9266,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BARBA COMPARAN, ANDRES"
+        "Profesor": "BARBA COMPARAN, ANDRES",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42775",
@@ -8769,7 +9284,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42775",
@@ -8786,7 +9302,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42788",
@@ -8803,7 +9320,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42788",
@@ -8820,7 +9338,8 @@
         "Aula": "LC07",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH"
+        "Profesor": "COVARRUBIAS QUI\ufffdONES, SANDRA ELIZABETH",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42786",
@@ -8837,7 +9356,8 @@
         "Aula": "LC04",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LOPEZ FRANCO, LUIS EDUARDO"
+        "Profesor": "LOPEZ FRANCO, LUIS EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42736",
@@ -8854,7 +9374,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA FERNANDEZ, SALVADOR"
+        "Profesor": "MENDOZA FERNANDEZ, SALVADOR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138615",
@@ -8871,7 +9392,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MENDOZA FERNANDEZ, SALVADOR"
+        "Profesor": "MENDOZA FERNANDEZ, SALVADOR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153392",
@@ -8888,7 +9410,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ORTIZ PIMENTEL, BELEN ANABETT"
+        "Profesor": "ORTIZ PIMENTEL, BELEN ANABETT",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153393",
@@ -8905,7 +9428,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153394",
@@ -8922,7 +9446,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SILVA, ROSENDO"
+        "Profesor": "MARTINEZ SILVA, ROSENDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153395",
@@ -8939,7 +9464,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA"
+        "Profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153396",
@@ -8956,7 +9482,8 @@
         "Aula": "LC09",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153397",
@@ -8973,7 +9500,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESQUIVEL TORRES, SARA"
+        "Profesor": "ESQUIVEL TORRES, SARA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153398",
@@ -8990,7 +9518,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MORALES LOPEZ, LUIS ANGEL"
+        "Profesor": "MORALES LOPEZ, LUIS ANGEL",
+        "Carrera": "INCO"
     },
     {
         "nrc": "123191",
@@ -9007,7 +9536,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "PEREZ CISNEROS, MARCO ANTONIO"
+        "Profesor": "PEREZ CISNEROS, MARCO ANTONIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131885",
@@ -9024,7 +9554,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEZA ESPINOSA, JOSE JUAN"
+        "Profesor": "MEZA ESPINOSA, JOSE JUAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131886",
@@ -9041,7 +9572,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO"
+        "Profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138650",
@@ -9058,7 +9590,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138651",
@@ -9075,7 +9608,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147569",
@@ -9092,7 +9626,8 @@
         "Aula": "LC03",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147571",
@@ -9109,7 +9644,8 @@
         "Aula": "LC02",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID"
+        "Profesor": "BONILLA CARRANZA, JOSE LUIS DAVID",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124888",
@@ -9126,7 +9662,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124889",
@@ -9143,7 +9680,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN"
+        "Profesor": "MACIAS BRAMBILA, HASSEM RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131882",
@@ -9160,7 +9698,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "138648",
@@ -9177,7 +9716,8 @@
         "Aula": "A006",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153408",
@@ -9194,7 +9734,8 @@
         "Aula": "LC08",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153408",
@@ -9211,7 +9752,8 @@
         "Aula": "LC10",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103842",
@@ -9228,7 +9770,8 @@
         "Aula": "A013",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SANTOYO SANCHEZ, ALEJANDRA"
+        "Profesor": "SANTOYO SANCHEZ, ALEJANDRA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103843",
@@ -9245,7 +9788,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131873",
@@ -9262,7 +9806,8 @@
         "Aula": "A020",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO"
+        "Profesor": "MU\ufffdOZ GOMEZ, LUIS ALBERTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147819",
@@ -9279,7 +9824,8 @@
         "Aula": "A021",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147819",
@@ -9296,7 +9842,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124884",
@@ -9313,7 +9860,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MALDONADO MERCADO, JOSE RUBEN"
+        "Profesor": "MALDONADO MERCADO, JOSE RUBEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "124885",
@@ -9330,7 +9878,8 @@
         "Aula": "A011",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "LANDA HORTA, DANIEL OMAR"
+        "Profesor": "LANDA HORTA, DANIEL OMAR",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131875",
@@ -9347,7 +9896,8 @@
         "Aula": "LC06",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "SILVA MARES, OSCAR GREGORIO"
+        "Profesor": "SILVA MARES, OSCAR GREGORIO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131876",
@@ -9364,7 +9914,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131877",
@@ -9381,7 +9932,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN"
+        "Profesor": "GUTIERREZ SALMERON, MARTHA DEL CARMEN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "147573",
@@ -9398,7 +9950,8 @@
         "Aula": "A008",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE"
+        "Profesor": "MU\ufffdOZ MENDOZA, LUIS FELIPE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42847",
@@ -9415,7 +9968,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "TORRES RAMOS, SULEMA"
+        "Profesor": "TORRES RAMOS, SULEMA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42849",
@@ -9432,7 +9986,8 @@
         "Aula": "A012",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42862",
@@ -9449,7 +10004,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42845",
@@ -9466,7 +10022,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RIVERA AGUILAR, JANETH GABRIELA"
+        "Profesor": "RIVERA AGUILAR, JANETH GABRIELA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42850",
@@ -9483,7 +10040,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANDRADE, ABELARDO"
+        "Profesor": "GOMEZ ANDRADE, ABELARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42861",
@@ -9500,7 +10058,8 @@
         "Aula": "A015",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42858",
@@ -9517,7 +10076,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA"
+        "Profesor": "MURILLO LEA\ufffdO, MARIA MAGDALENA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42846",
@@ -9534,7 +10094,8 @@
         "Aula": "A004",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ESPINOZA VALDEZ, AURORA"
+        "Profesor": "ESPINOZA VALDEZ, AURORA",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42848",
@@ -9551,7 +10112,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANDRADE, ABELARDO"
+        "Profesor": "GOMEZ ANDRADE, ABELARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "42859",
@@ -9568,7 +10130,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "GOMEZ ANDRADE, ABELARDO"
+        "Profesor": "GOMEZ ANDRADE, ABELARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "85703",
@@ -9585,7 +10148,8 @@
         "Aula": "A016",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "ORTEGA SANCHEZ, NOE"
+        "Profesor": "ORTEGA SANCHEZ, NOE",
+        "Carrera": "INCO"
     },
     {
         "nrc": "119892",
@@ -9602,7 +10166,8 @@
         "Aula": "A005",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEZA ESPINOSA, JOSE JUAN"
+        "Profesor": "MEZA ESPINOSA, JOSE JUAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "146005",
@@ -9619,7 +10184,8 @@
         "Aula": "A007",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MEZA ESPINOSA, JOSE JUAN"
+        "Profesor": "MEZA ESPINOSA, JOSE JUAN",
+        "Carrera": "INCO"
     },
     {
         "nrc": "153415",
@@ -9636,7 +10202,8 @@
         "Aula": "A002",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO"
+        "Profesor": "IBARRA CHAVEZ, SALOMON EDUARDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103838",
@@ -9653,7 +10220,8 @@
         "Aula": "A014",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "CARRILLO CASTRO, FERNANDO"
+        "Profesor": "CARRILLO CASTRO, FERNANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "103839",
@@ -9670,7 +10238,8 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "HERNANDEZ ANDRADE, JORGE FAUSTO"
+        "Profesor": "HERNANDEZ ANDRADE, JORGE FAUSTO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131871",
@@ -9687,7 +10256,8 @@
         "Aula": "A003",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS BARAJAS, ARMANDO"
+        "Profesor": "RAMOS BARAJAS, ARMANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "131872",
@@ -9704,7 +10274,8 @@
         "Aula": "A001",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "RAMOS BARAJAS, ARMANDO"
+        "Profesor": "RAMOS BARAJAS, ARMANDO",
+        "Carrera": "INCO"
     },
     {
         "nrc": "159315",
@@ -9721,6 +10292,7 @@
         "Aula": "A009",
         "Periodo": "16/01/19 - 31/05/19",
         "Ses": "01",
-        "Profesor": "MARTINEZ SOLTERO, ERASMO GABRIEL"
+        "Profesor": "MARTINEZ SOLTERO, ERASMO GABRIEL",
+        "Carrera": "INCO"
     }
 ]

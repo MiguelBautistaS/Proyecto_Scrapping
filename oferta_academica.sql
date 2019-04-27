@@ -65,13 +65,9 @@ CREATE TABLE horario(
 
 CREATE TABLE detalle(
     id INT PRIMARY KEY AUTO_INCREMENT,
-    nrc INT,
     creditos INT,
     cupos_totales INT,
     cupos_disponibles INT
-    
-    FOREIGN KEY(nrc)
-    REFERENCES oferta(nrc)
 );
 
 
