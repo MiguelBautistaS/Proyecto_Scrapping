@@ -65,6 +65,7 @@ CREATE TABLE horario(
 
 CREATE TABLE detalle(
     id INT PRIMARY KEY AUTO_INCREMENT,
+    nrc INT,
     creditos INT,
     cupos_totales INT,
     cupos_disponibles INT
@@ -74,6 +75,7 @@ CREATE TABLE detalle(
 
 CREATE TABLE oferta(
     nrc INT PRIMARY KEY,
+    oferta VARCHAR(100) NOT NULL,
     id_clave  INT,
     id_seccion INT,
     id_detalle INT,
