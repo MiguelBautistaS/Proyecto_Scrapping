@@ -76,10 +76,11 @@ CREATE TABLE detalle(
 CREATE TABLE oferta(
     nrc INT PRIMARY KEY,
     oferta VARCHAR(100) NOT NULL,
+    carrera VARCHAR(100) NOT NULL,
     id_clave  INT,
     id_seccion INT,
     id_detalle INT,
-    id_profesor INT,
+    id_profesor INT
     
     FOREIGN KEY(id_clave)
     REFERENCES clave(id),
@@ -140,13 +141,6 @@ CREATE TABLE edificios(
                       
 );
 
-create database materias;
-
-grant all privileges on materias.* to 'miguel'@'localhost';
-
-
-
-
 INSERT INTO dia(dia, identificador) VALUES ('Lunes', 'L');
 INSERT INTO dia(dia, identificador) VALUES ('Martes', 'M');
 INSERT INTO dia(dia, identificador) VALUES ('Miercoles', 'I');
@@ -154,3 +148,15 @@ INSERT INTO dia(dia, identificador) VALUES ('Jueves', 'J');
 INSERT INTO dia(dia, identificador) VALUES ('Viernes', 'V');
 INSERT INTO dia(dia, identificador) VALUES ('Sabado', 'S');
 INSERT INTO dia(dia, identificador) VALUES('Domingo', 'D');
+
+create database materias;
+
+grant all privileges on materias.* to 'miguel'@'localhost';
+
+SET collation_connection = 'utf8_spanish_ci';
+
+ALTER materias your_database_name CHARACTER SET utf8 COLLATE utf8_spanish_ci;
+
+ALTER TABLE profesor CONVERT TO CHARACTER SET utf8 COLLATE utf8_spanish_ci;
+ALTER TABLE clave CONVERT TO CHARACTER SET utf8 COLLATE utf8_spanish_ci;
+
