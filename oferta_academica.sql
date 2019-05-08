@@ -75,7 +75,6 @@ CREATE TABLE detalle(
 
 CREATE TABLE oferta(
     nrc INT PRIMARY KEY,
-    oferta VARCHAR(100) NOT NULL,
     carrera VARCHAR(100) NOT NULL,
     id_clave  INT,
     id_seccion INT,
